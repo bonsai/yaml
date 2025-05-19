@@ -1,60 +1,60 @@
-#
+#@knnkanda
 #神田さんのファイルを使えるように整形
 #https://4knn.tv/yaml-infographics/
 
 
 action_figure:
-  name: ” ”# “The Showman Performer”
-  series: ” ”# “LEGENDARY STAGE ICONS”
+  name: ” ” # “The Showman Performer”
+  series: ” ” # “LEGENDARY STAGE ICONS”
   packaging:
-    type: ” ”# “Classic blister packaging”
+    type: ” ” # “Classic blister packaging”
     design:
-      background_art: ” ”# “赤白ストライプのパラシュート演出”
-      logo: ” ”# “週刊女性PRIME Special Edition”
-      window_shape: ” ”# “楕円型クリアウィンドウ”
+      background_art: ” ” # “赤白ストライプのパラシュート演出”
+      logo: ” ” # “週刊女性PRIME Special Edition”
+      window_shape: ” ” # “楕円型クリアウィンドウ”
     card_back:
-      illustration: ” ”# “ステージ上で両脚を開きパフォーマンス中の姿”
+      illustration: ” ” # “ステージ上で両脚を開きパフォーマンス中の姿”
       color_scheme:
-        # - red
-        # - white
-        # - gold
-      tagline: ” ”# “情熱のサーカス・ボイスを再現！”
+        - ” ” # - red
+        - ” ” # - white
+        -” ”  # - gold
+      tagline: ” ” # “情熱のサーカス・ボイスを再現！”
   figure_spec:
-    scale: ” ”# “1:10”
-    height_cm: ” ”# 18
-    articulation_points: ” ”# 14
-    expression: ” ”# “目を閉じて歌う情熱的な表情”
-    pose: ” ”# “両脚を開き、両手で背中の支柱に触れる”
+    scale: ” ” # “1:10”
+    height_cm: ” ” # 18
+    articulation_points: ” ” # 14
+    expression: ” ” # “目を閉じて歌う情熱的な表情”
+    pose: ” ” # “両脚を開き、両手で背中の支柱に触れる”
   outfit:
-    theme: ” ”# “サーカス団風・軍服スタイル”
+    theme: ” ” # “サーカス団風・軍服スタイル”
     top:
-      type: ” ”# “赤の装飾付きジャケット”
+      type: ” ” # “赤の装飾付きジャケット”
       details:
-        # - gold_epaulettes: true
-        # - gold_buttons: true
-        # - decorative_tape: “gold”
+        - ” ” # - gold_epaulettes: true
+        - ” ” # - gold_buttons: true
+        - ” ” # - decorative_tape: “gold”
     bottom:
-      type: ” ”# “スリムパンツ”
-      color: ” ”# “濃紺”
-      side_stripes: ” ”# “gold”
+      type: ” ” # “スリムパンツ”
+      color: ” ” # “濃紺”
+      side_stripes: ” ” # “gold”
     shoes:
-      type: ” ”# “エナメル風ステージシューズ”
-      color: ” ”# “black”
+      type: ” ” # “エナメル風ステージシューズ”
+      color: ” ” # “black”
   accessories:
-    - name: ” ”# “スタンドマイク”
-      color: ” ”# “メタリックシルバー”
-      attachable: ” ”# true
-    - name: ” ”# “背面支柱&ワイヤーセット”
-      feature: ” ”# “パラシュートと連結された可動支柱”
-    - name: ” ”# “左耳イヤリング”
-      type: ” ”# “小型ピアス型”
+    - name: ” ” # “スタンドマイク”
+      color: ” ” # “メタリックシルバー”
+      attachable: ” ” # true
+    - name: ” ” # “背面支柱&ワイヤーセット”
+      feature: ” ” # “パラシュートと連結された可動支柱”
+    - name: ” ” # “左耳イヤリング”
+      type: ” ” # “小型ピアス型”
   base:
-    shape: ” ”# “円形”
-    print: ” ”# “ステージ模様＋パラシュート演出”
-    color: ” ”# “木目調＋赤白リング”
+    shape: ” ” # “円形”
+    print: ” ” # “ステージ模様＋パラシュート演出”
+    color: ” ” # “木目調＋赤白リング”
   collectible_info:
-    edition: ” ”# “限定生産5000体”
-    serial_number: ” ”# “シリアル刻印入り（背中パーツ内側）”
+    edition: ” ” # “限定生産5000体”
+    serial_number: ” ” # “シリアル刻印入り（背中パーツ内側）”
   extras:
     # - “人物解説カード”
     # - “舞台写真ミニブックレット（全4P）”
